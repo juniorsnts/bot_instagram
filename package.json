@@ -1,0 +1,19 @@
+{
+  "name": "botinstagram",
+  "version": "1.0.0",
+  "description": "Bot de instagram que curte a foto de  quem você definir.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "juniorsnts",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juniorsnts/bot_instagram.git"
+  },
+  "bugs": {
+    "url": "https://github.com/juniorsnts/bot_instagram/issues"
+  },
+  "homepage": "https://github.com/juniorsnts/bot_instagram#readme"
+}
